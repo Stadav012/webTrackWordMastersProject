@@ -6,3 +6,8 @@
 * If the player guesses a letter that is in the word but not in the right place, it is shown as yellow
 * It does account for however many of the letter exist in the word. For example, if the player guesses "SPOOL" and the word is "OVERT", one "O" is shown as yellow and the second one is not.
 * If the player guesses the right word, the player wins and the game is over.
+
+
+# APIs to work with
+1)  https://words.dev-apis.com/word-of-the-day
+2)  https://words.dev-apis.com/validate-word
